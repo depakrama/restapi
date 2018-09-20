@@ -44,9 +44,9 @@ duis,11
 
 Both the Api's are secured using the spring security and when trying in postman, username and password should be added in header section.
 
-username : optus
+username : test
 
-password:candidates
+password:test
 
 download the jar file
 
