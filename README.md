@@ -1,6 +1,6 @@
 # restapi
 
-The rest api's are developed using the Spring Boo and using maven to build the executable jar. Tha jar can be downloaded and using the below command the api's can be hit in Postman or using the curl commands. 
+The rest api's are developed using the Spring Boot and using maven to build the executable jar. Tha jar can be downloaded and using the below command the api's can be hit in Postman or using the curl commands. 
 
 Search api:
 This api is an POST call and used to number of occurrences of word in text file. The request will be JSON request like below. if the request is empty, then 400 bad request is returned.
